@@ -3,6 +3,9 @@
 MeterReader is an innovative Flutter-based mobile application designed to simplify and automate the process of electric meter reading. This application leverages the power of your smartphone's camera to capture images of electric meters, accurately extract the meter readings, and identify the serial numbers, providing a seamless and efficient solution for both consumers and utility providers.
 
 ## Key Features
+### Optical Character Recognition (OCR)
+- The app employs advanced OCR technology to accurately read and interpret the numeric values on the electric meter.
+- OCR ensures precise data extraction, minimizing errors and improving the reliability of readings.
 
 ### Image Capture
 - Users can easily open the camera within the app to take a clear photo of their electric meter.
